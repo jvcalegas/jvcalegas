@@ -21,7 +21,7 @@
   <img align="center" alt="calega-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="calega-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="calega-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="calega-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif">
+  <img align="right" alt="calega-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/@me/546076736396328961/943549756339257424">
 </div>
   
   ## CONTATO
