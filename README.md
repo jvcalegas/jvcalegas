@@ -1,4 +1,4 @@
-### Eae guys, bom? 🌹😎 Sou o João Victor do Carmo Calegário
+### <div align="center">Eae guys, bom? 🌹😎 Sou o João Victor do Carmo Calegário</div>
 
 
 
@@ -15,7 +15,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvcalegas&layout=compact&langs_count=7&theme=algolia"/>
 </div>
   
-  ### EM TREINAMENTO
+  ## EM TREINAMENTO
   
   <div style="display: inline_block"><br>
   <img align="center" alt="calega-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
