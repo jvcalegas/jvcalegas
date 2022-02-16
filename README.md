@@ -1,12 +1,12 @@
 ### <div align="center">Eae guys, bom? 🌹😎 Sou o João Victor do Carmo Calegário</div>
 
-<img src="https://www.canva.com/design/DAE4imsdo3g/YhZUMIcsqylidrI_NCBKPA/view?utm_content=DAE4imsdo3g&utm_campaign=designshare&utm_medium=link&utm_source=shareyourdesignpanel">
+
 - 🍳 Idade: 19 anos
 - 🌹 Adorador de inovações e tecnologias
 - 📚 Estudante de Ti
 - ⚽ Amante de esportes
 - 📫 Contato: jvcaleglk@gmail.com
-
+<img  max-width= 100p% align="center" src="https://media.discordapp.net/attachments/942822236384010281/943586399708381244/IMG-20220216-WA0059.jpg">
 
 <div align="center">
   <a href="https://github.com/jvcalegas">
