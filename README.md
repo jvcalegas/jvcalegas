@@ -21,8 +21,9 @@
   <img align="center" alt="calega-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="calega-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="calega-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="calega-pic" height="150" src="![gatinho gif](https://user-images.githubusercontent.com/99449778/154323232-fa855f19-cb57-4820-bbe9-ee30e9ff470e.gif)">
+  <img align="right" alt="calega-pic" height="150" src="">
 </div>
+
   
   ## CONTATO
   <div> 
