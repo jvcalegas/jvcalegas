@@ -1,7 +1,6 @@
 ### <div align="center">Eae guys, bom? 🌹😎 Sou o João Victor do Carmo Calegário</div>
 
 
-
 - 🍳 Idade: 19 anos
 - 🌹 Adorador de inovações e tecnologias
 - 📚 Estudante de Ti
