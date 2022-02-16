@@ -1,6 +1,6 @@
 ### <div align="center">Eae guys, bom? 🌹😎 Sou o João Victor do Carmo Calegário</div>
 
-
+<img src="https://www.canva.com/design/DAE4imsdo3g/YhZUMIcsqylidrI_NCBKPA/view?utm_content=DAE4imsdo3g&utm_campaign=designshare&utm_medium=link&utm_source=shareyourdesignpanel">
 - 🍳 Idade: 19 anos
 - 🌹 Adorador de inovações e tecnologias
 - 📚 Estudante de Ti
@@ -20,7 +20,7 @@
   <img align="center" alt="calega-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="calega-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="calega-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="right" src="https://media.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif">
+<img align="right" style="border-radius:50px;" height="150" src="https://media.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif">
 </div>
 
   
