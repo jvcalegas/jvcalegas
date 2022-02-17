@@ -1,7 +1,7 @@
 # <div align="center">Eae guys, bom? Sou o João Victor do Carmo Calegário 🌹😎</div>
 
 
-- 🍳 Idade: 19 anos
+- 🐦 Apaixonado pela fauna e flora brasileira
 - 🌹 Adorador desde sempre de inovações e tecnologias
 - 📚 Estudante de Ti
 - ⚽ Amante de esportes
