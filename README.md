@@ -1,4 +1,4 @@
- <img max-width="100%" align="center" src="https://cdn.discordapp.com/attachments/934955432907272272/943956008206745620/BEM-VINDOS_2.png"></a>
+ <img max-width="100%" align="center" src="https://cdn.discordapp.com/attachments/934955432907272272/943961776381394964/Jv_calegas_1.png"></a>
 
 ## <div align="center">Eae guys, bom? Sou o João Victor do Carmo Calegário 🌹😎</div>
 
