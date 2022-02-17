@@ -2,7 +2,7 @@
 
 
 - 🍳 Idade: 19 anos
-- 🌹 Adorador de inovações e tecnologias
+- 🌹 Adorador desde sempre de inovações e tecnologias
 - 📚 Estudante de Ti
 - ⚽ Amante de esportes
 - 📫 Contato: jvcaleglk@gmail.com
