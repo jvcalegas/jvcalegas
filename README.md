@@ -1,4 +1,4 @@
- <img  max-width= 100p% align="center" src="https://cdn.discordapp.com/attachments/934955432907272272/943956008206745620/BEM-VINDOS_2.png"></a>
+ <img max-width="100%" align="center" src="https://cdn.discordapp.com/attachments/934955432907272272/943956008206745620/BEM-VINDOS_2.png"></a>
 
 ## <div align="center">Eae guys, bom? Sou o João Victor do Carmo Calegário 🌹😎</div>
 
@@ -27,7 +27,7 @@
 <img align="center" alt="calega-js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="calega-html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="calega-css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img align="right" style="border-radius:50px;" height="150" src="https://media.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif">
+<img align="right" style="border-radius:50px;" height="150" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif">
 </div>
 
   
