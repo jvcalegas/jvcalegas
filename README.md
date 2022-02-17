@@ -1,3 +1,5 @@
+ <img  max-width= 100p% align="center" src="https://cdn.discordapp.com/attachments/934955432907272272/943956008206745620/BEM-VINDOS_2.png"></a>
+
 ## <div align="center">Eae guys, bom? Sou o João Victor do Carmo Calegário 🌹😎</div>
 
 🐦 Apaixonado pela fauna e flora brasileira
