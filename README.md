@@ -39,3 +39,8 @@
      	<a href="https://www.twitch.tv/jvcalegario22" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  
 </div>
+ 
+ ## Visitas no meu perfil 👀
+ <p align="center"> 
+   <img align="center" src="https://profile-counter.glitch.me/jvcalegas/count.svg" />
+ </p>
