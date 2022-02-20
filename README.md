@@ -21,7 +21,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvcalegas&layout=compact&langs_count=7&theme=react"/>
 </div>
   
-  ## EM TREINAMENTO
+  ## 🐱‍💻 EM TREINAMENTO
   
   <div style="display: inline_block"><br>
 <img align="center" alt="calega-js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -31,7 +31,7 @@
 </div>
 
   
-  ## CONTATO
+  ## 📫 CONTATO
   <div> 
   <a href="https://www.instagram.com/ocalegario/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jvcaleglk@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
