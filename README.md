@@ -2,6 +2,7 @@
 
 ## <div align="center">Eae guys, bom? Sou o João Victor do Carmo Calegário 🌹😎</div>
 
+
 🐦 Apaixonado pela fauna e flora brasileira
 
 🌹 Adorador desde sempre de inovações e tecnologias
@@ -11,6 +12,8 @@
 ⚽ Amante de esportes
 
 ✍ Artista (Poeta)
+
+🎮 Gamer 
 
 
 <a href="https://www.instagram.com/ocalegario/"> <img  max-width= 100p% align="center" src="https://media.discordapp.net/attachments/942822236384010281/943586399708381244/IMG-20220216-WA0059.jpg"></a>
