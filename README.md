@@ -43,7 +43,7 @@
  
 </div>
  
- ## Visitas no meu perfil 👀
+ ## 👀 Visitas no meu perfil
  <p align="center"> 
    <img align="center" src="https://profile-counter.glitch.me/jvcalegas/count.svg" />
  </p>
