@@ -22,11 +22,17 @@
   
   ## 🐱‍💻 EM TREINAMENTO
   
-  <div style="display: inline_block"><br>
-<img align="center" alt="calega-js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="calega-html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="calega-css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<div>
+
+<div style="display: inline_block">
+ <img align="space-between" alt="calegas-Js" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="space-between" alt="calega-HTML" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="space-between" alt="calega-CSS" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img aling="space-between" alt="calega-BootStrap" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+</div><br>
+
 <img align="right" style="border-radius:50px;" height="150" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif">
+
 </div>
 
   
@@ -38,6 +44,13 @@
      	<a href="https://www.twitch.tv/jvcalegario22" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  
 </div>
+ 
+ ## 🤓 INTERESSES
+ <div style="display: inline_block">
+   <img aligns="center" width="50px" alt="calegas-react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> 
+  <img aligns="center" width="50px" alt="calegas-php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /> 
+   <img aligns="center" width="50px" alt="calegas-python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />   
+ </div>
  
  ## 👀 Visitas no meu perfil
  <p align="center"> 
