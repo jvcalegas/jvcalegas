@@ -22,7 +22,6 @@
   
   ## 🐱‍💻 EM TREINAMENTO
   
-<div>
 
 <div style="display: inline_block">
  <img align="space-between" alt="calegas-Js" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -30,11 +29,6 @@
  <img align="space-between" alt="calega-CSS" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img aling="space-between" alt="calega-BootStrap" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
 </div><br>
-
-<img align="right" style="border-radius:50px;" height="150" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif">
-
-</div>
-
   
   ## 📫 CONTATOS
   <div> 
@@ -44,7 +38,7 @@
      	<a href="https://www.twitch.tv/jvcalegario22" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  
 </div>
- 
+
  ## 🤓 INTERESSES
  <div style="display: inline_block">
    <img aligns="center" width="50px" alt="calegas-react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> 
