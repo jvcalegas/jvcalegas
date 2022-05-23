@@ -24,6 +24,8 @@
   
 
 <div style="display: inline_block">
+ <img align="space-between" alt="calega-flutter" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /> 
+ <img align="space-between" alt="calega-dart" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />        
  <img align="space-between" alt="calegas-Js" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="space-between" alt="calega-HTML" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="space-between" alt="calega-CSS" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
