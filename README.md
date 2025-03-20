@@ -1,5 +1,3 @@
- <img max-width="100%" align="center" alt="bem-vindo" src="https://cdn.discordapp.com/attachments/934955432907272272/943962263738531920/Design_sem_nome.png"></a>
-
 # <div align="center">Opa! Sou o João Victor do Carmo Calegário 🌹</div>
 
 🌹 Adorador desde sempre de inovações e tecnologias
